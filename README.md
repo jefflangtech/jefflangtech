@@ -8,7 +8,6 @@ I am a career transitioner coming from e-commerce and brick-and-mortar retail.
 
 - Portfolio - [Jeff Lang](https://jefflangtech.github.io/)
 - Frontend Mentor - [@jefflangtech](https://www.frontendmentor.io/profile/jefflangtech)
-- Twitter - [@jefflangtech](https://twitter.com/jefflangtech)
 
 ![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefflangtech&theme=darcula&show_icons=true)
 
